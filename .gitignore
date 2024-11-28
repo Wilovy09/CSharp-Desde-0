@@ -1,0 +1,8 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore any other system or temporary files
+*.user
+*.log
+*.tmp
